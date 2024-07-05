@@ -1,0 +1,68 @@
+{
+    "Irritable Bowel Syndrome": [
+        [
+            "Placebo",
+            86
+        ],
+        [
+            "placebo",
+            11
+        ],
+        [
+            "Linaclotide",
+            8
+        ],
+        [
+            "Rifaximin",
+            8
+        ],
+        [
+            "Ibodutant",
+            6
+        ]
+    ],
+    "Celiac Disease": [
+        [
+            "Placebo",
+            18
+        ],
+        [
+            "larazotide acetate",
+            5
+        ],
+        [
+            "placebo",
+            4
+        ],
+        [
+            "Simvastatin",
+            3
+        ],
+        [
+            "Latiglutenase",
+            3
+        ]
+    ],
+    "Crohn's Disease": [
+        [
+            "Placebo",
+            72
+        ],
+        [
+            "Ustekinumab",
+            18
+        ],
+        [
+            "Infliximab",
+            11
+        ],
+        [
+            "Adalimumab",
+            8
+        ],
+        [
+            "CP-690,550",
+            7
+        ]
+    ]
+}
